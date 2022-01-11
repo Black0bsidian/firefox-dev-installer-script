@@ -1,0 +1,1 @@
+# firefox-dev-installer-script
